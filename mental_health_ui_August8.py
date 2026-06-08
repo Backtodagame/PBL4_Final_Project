@@ -38,7 +38,7 @@ import threading, base64, tempfile
 # ══════════════════════════════════════════════════════════════
 
 TEXT_MODEL_PATH   = r"E:\HK8\PBL4\Code\emotion_model_v5.3"
-FACE_MODEL_PATH   = r"E:\HK8\PBL4\Code\FolderGithub\best_resnet18_rafdb.pth"
+FACE_MODEL_PATH   = r"E:\HK8\PBL4\Code\FolderGithub\resnetL3.pth"
 SPEECH_MODEL_PATH = r"E:\HK8\PBL4\Code\speak_model\phowhisper_small_vietsuperspeech"
 HISTORY_FILE      = r"E:\HK8\PBL4\Code\FolderGithub\mental_health_history.json"
 
