@@ -1,0 +1,8 @@
+# Bỏ qua môi trường ảo Python
+emotion_env/
+
+*.png
+*.xlsx
+
+__pycache__/
+*.pyc
