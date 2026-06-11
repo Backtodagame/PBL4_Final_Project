@@ -11,3 +11,5 @@ bạn phải cấu hình đường dẫn ở trong các file này phù hợp v�
 1. Chạy Final_Tai_10DienVien_tu_RAVDESS.py, tệp này sẽ tự động tải 1040 clip từ https://zenodo.org/records/1188976 
 2. Các clip được diễn viên nói bằng tiếng Anh, nếu muốn sửa thành Tiếng Việt, bạn phải chạy Final_ThemTiengVietVaoRAVDESS.py 
 3. Để test hệ thống, bạn chỉ cần chạy Final_DanhGia60clip.py, hệ thống sẽ xuất kết quả cho bạn
+
+## Link Notebook huấn luyện ResNet trên RAF-DB ở đây : https://www.kaggle.com/code/trisleevawnminh/resnet18-t-ng-c-ng-ti-u-chu-n
