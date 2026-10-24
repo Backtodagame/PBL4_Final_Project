@@ -14,3 +14,4 @@ bạn phải cấu hình đường dẫn ở trong các file này phù hợp v�
 
 ## Một vài đường link quan trọng
 1. Link Notebook huấn luyện ResNet trên RAF-DB ở đây : https://www.kaggle.com/code/trisleevawnminh/resnet18-t-ng-c-ng-ti-u-chu-n
+2. Link báo cáo dự án (tệp PDF) ở đây: https://github.com/Backtodagame/PBL4_Final_Project/blob/main/BaocaoCK_PBL4_Tr%C3%AD_%C4%90%E1%BA%A1t.pdf
